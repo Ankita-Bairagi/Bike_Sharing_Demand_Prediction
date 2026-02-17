@@ -1,2 +1,5 @@
-# Bike_Sharing_Demand_Prediction
-A complete Machine Learning project that predicts bike rental demand using Random Forest, Streamlit app, EDA, and hyperparameter tuning. Includes dataset, notebook, deployment app, and full presentation.
+# 🚴 Bike Sharing Demand Prediction System
+
+🔗 Live App: https://bikesharingdemandprediction-3lrgsfgyqcgdhquyvyq7gq.streamlit.app/
+
+A machine learning web application built using Streamlit that predicts bike rental demand based on input features.
